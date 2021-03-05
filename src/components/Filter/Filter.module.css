@@ -1,0 +1,8 @@
+.filter {
+  display: flex;
+  flex-direction: column;
+}
+.inputFilter {
+  width: 20%;
+  margin-top: 10px;
+}
